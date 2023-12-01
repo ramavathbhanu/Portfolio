@@ -1,0 +1,713 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #e8dc76;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #e8dc76;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #e8dc76;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #e8dc76;
+    font-family: "Roboto";
+}
+
+.name-bhanu {
+    color: #f0af48;
+    font-size: 20px;
+    font-family: Monoton;
+}
+
+.hello-text {
+    color: #f0af48;
+    font-size: 15px;
+}
+
+.banner-section-bg-container {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.my-image2 {
+    width: 100%; /* Adjust as needed */
+    height: auto; /* Ensures the image scales proportionally */
+    transition: box-shadow 0.3s ease; /* Adding a smooth transition effect */
+}
+
+.my-image2:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adjust the shadow color and size as needed */
+}
+
+
+
+
+
+
+.my-name2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.my-name {
+    color: #f0af48;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.image-container {
+
+    margin-right: 40px;
+}
+.custom-button{
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    font-family: roboto;
+    background-color: #f0af48;
+    color:white;
+}
+.custom-outline-button{
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    border-color: rgb(245, 92, 117);
+    font-family: roboto;
+    background-color: rgb(7, 7, 7);
+    color:white;
+
+}
+.about-me-section-container {
+    background-color: black;
+    height: 100%;
+    background-size: cover;
+}
+
+.about-me-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.about-me-description {
+    color: #9e9898;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.details-sections {
+    color: white;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 520;
+}
+
+.details-anwers {
+    padding-left: 0px;
+    color: #9e9898;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.project-details {
+    color: #f0af48;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.Project-answer {
+    color: white;
+    font-family: Roboto;
+}
+
+
+/* Resume section Css */
+.resume-section-container {
+    background-color: black;
+    height: 100%;
+    background-size: cover;
+
+}
+
+.resume-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 600;
+
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.resume-description {
+    color: #9e9898;
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: center;
+}
+
+.education-card-containers {
+    padding: 20px;
+    background-color: #333232;
+    height: 100%;
+    background-size: cover;
+}
+
+.years {
+
+    color: #f0af48;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.degree-name {
+    font-family: Roboto;
+    font-size: 25px;
+    color: white;
+}
+
+.univesity-name {
+    color: #9e9898;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.resume-card-description {
+    color: #9e9898;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.service-card-container{
+    background-color: #333232;
+    padding: 20px;
+
+    
+}
+
+.service-image-description{
+    font-family: roboto;
+    font-size:15px;
+    font-weight: 500;
+    text-align: center;
+    color:white;
+
+}
+.service-image{
+    height: 25vh;
+    width:35vh;
+    padding:20px;
+}
+.horigontal-line{
+
+    color:yellow;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.service-card-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.service-card-container:hover .service-image {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+.arrow-animation:hover + .service-card-container .service-image {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+/******* project section ***/
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111010;
+}
+
+.project-card-heading-container{
+    background-color: #000016;
+}
+
+.project-container {
+    background-color: #000016;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+.project-heading{
+    font-family: roboto;
+    font-size:25px;
+    font-weight: 550;
+}
+.project-image{
+    height: 30vh;
+    width: 70vh;
+}
+
+.project-card {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    margin: 20px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+}
+
+.project-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color:#f0af48;
+    padding: 10px;
+    box-sizing: border-box;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover .project-info {
+    transform: translateY(0);
+}
+
+
+h3, p {
+    margin: 0;
+    color: #333;
+}
+
+
+
+/* Devender */ 
+
+
+
+
+  /* Skills Style  */
+
+  .skills{
+    background: #000016;
+  }
+  
+  .skills .content{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    margin-top: 20px;
+  }
+  
+  .skills .content .col-left{
+    position: relative;
+    width: 46%;
+    text-align: justify;
+  }
+  
+  .skills .content .col-left .content-title{
+    margin-bottom: 20px;
+  }
+  
+  .skills .content .col-right{
+    position: relative;
+    width: 46%;
+  }
+  
+  .skills .content .col-right .bar{
+    margin-bottom: 15px;
+    padding: 10px;
+  }
+  
+  .skills .content .col-right .bar .info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .skills .content .col-right .bar .info span{
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .skills .content .col-right .bar .line{
+    position: relative;
+    width: 100%;
+    height: 10px;
+
+    background: #ccc;
+    border-radius: 5px;
+  }
+  
+  .skills .content .col-right .bar .line:before{
+    content: '';
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 5px;
+  }
+  
+  .skills .content .col-right .bar .html:before{
+    width: 95%;
+    background:#e3a324;
+  }
+  
+  .skills .content .col-right .bar .css:before{
+    width: 90%;
+    background:#e3a324;
+  }
+  
+  .skills .content .col-right .bar .javascript:before{
+    width: 80%;
+    background: #e3a324;
+  }
+  
+  .skills .content .col-right .bar .jquery:before{
+    width: 80%;
+    background:#e3a324;
+  }
+  
+  .skills .content .col-right .bar .php:before{
+    width: 75%;
+    background: #e3a324;
+  }
+  .skills .content .col-right .bar .rprogram:before{
+    width: 75%;
+    background:#e3a324;
+  }
+  .services .content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 20px;
+    
+  }
+
+
+
+  .work .content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+    grid-gap: 40px;
+    margin-top: 50px;
+  }
+  
+  .work .content .card{
+    width:330px;
+    margin:15px;
+    display: block;
+    
+  }
+  .image{
+    width:100%;
+  }
+  .work .content .card .card-img {
+    border-radius: 10px;
+    position: relative;
+    overflow:hidden;
+    width:100%;
+    align-items: center;
+    transition: transform 0.5s;
+    display:block;
+    height:400px;
+    object-fit: cover;
+  }
+  
+  .layer{
+    width:80vw;
+    height: 0;
+    background: linear-gradient(rgba(0,0,0,0.6),#ff004f);
+    border-radius: 10px;
+    position: absolute;
+    left:0;
+    bottom: 0;
+    overflow: hidden;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    transition: height 0.5s;
+    text-align: justify;
+  }
+  .layer h3{
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+  .layer a{
+    margin-top:20px;
+    color:#ff004f;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 60px;
+    background: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+  }
+  .work .content .card .card-img:hover {
+   transform: scale(1.1);
+  }
+  .work .content .card .card-img:hover .layer{
+    height:100%;
+  }
+  
+  .contact{
+    background-color:#080808;
+  }
+  .contact .content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  
+  .contact .content .row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .contact .content .row .card{
+    background: #272626;
+    width: 200px;
+    margin: 20px;
+    padding: 25px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction:column;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 30px;
+    
+  }
+  
+  .contact .content .row .card .contact-icon{
+    color:#f0af48;
+    font-size: 4em;
+    text-align: center;
+    transition: transform 0.5s ease;
+  }
+  
+  .contact .content .row .card:hover .contact-icon{
+    transform: translateY(-10px);
+  }
+  
+  .contact .content .row .card .info{
+    text-align: center;
+  }
+  
+  .contact .content .row .card .info h3{
+    color: #111;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 10px;
+  }
+  
+  .contact .content .row .card .info span{
+    color: #666;
+    font-weight: 500;
+  }
+  
+  .contact-form{
+    background: #0b0b0b;
+    max-width: 600px;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+  }
+  
+  .contact-form h3{
+    color: #111;
+    font-size: 1.6em;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .contact-form .input-box{
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form .input-box input,
+  .contact-form .input-box textarea{
+    color: #111;
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: 400;
+    outline: none;
+    border: 1px solid #111;
+    border-radius: 5px;
+    resize: none;
+  }
+  .contact-form .input-box input :hover,
+  .contact-form .input-box textarea:hover{
+    border-color: #000a04;
+    box-shadow: #3a6cf4;
+  }
+  
+  .contact-form .input-box .send-btn{
+    color: #fff;
+    background:  #d0b200;
+    display: inline-block;
+    font-size: 1.1em;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s ease;
+  }
+  
+.contact-form .input-box .send-btn:hover{
+    background: #235bf6;
+  }
+#msg{
+    color:#61b752;
+    display:block ;
+    margin-top: -10px;
+  
+  }
+
+
+
+
+.follow-us-icon-container {
+   
+    width: 20px;
+    height: 20px;
+    border-radius: 40px;
+    margin: 20px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.follow-us-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 35px;
+}
+
+
+.footer-section-container {
+    background-color: #0d2436;
+}
+
+.footer-section-image {
+    width: 30px;
+    height: 30px;
+
+}
+
+.footer-heading {
+    color: #959ead;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+
+
+
+
+.footer-section-order-place-discription {
+    color: #959ead;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 15px;
+}
+.footer-heading{
+    font-family: roboto;
+    font-weight: 550;
+    font-size: 25px;
+    color:white;
+}
+.footer-discription{
+    font-family: roboto;
+    
+    font-size: 10px;
+    color:#c6c2c2c9;
+}
+ 
